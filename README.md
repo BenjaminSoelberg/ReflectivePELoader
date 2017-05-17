@@ -36,8 +36,8 @@ https://www.codeproject.com/Articles/20084/A-More-Complete-DLL-Injection-Solutio
 http://blog.harmonysecurity.com/2008/10/new-paper-reflective-dll-injection.html<br>
 http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html<br>
 https://disman.tl/2015/01/30/an-improved-reflective-dll-injection-technique.html<br>
+https://disman.tl/2015/03/16/cross-architecture-reflective-dll-inection.html<br>
 https://www.youtube.com/watch?v=9U6dtRtSuFo&index=11&list=PLcTmaBQIhUkgvwz3k-JGHUcDlS41fim0x<br>
-
 
 Interresting Microsoft documentation for my personal needs:<br>
 https://blogs.msdn.microsoft.com/ntdebugging/2009/01/09/challenges-of-debugging-optimized-x64-code/<br>
