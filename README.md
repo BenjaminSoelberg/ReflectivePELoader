@@ -12,6 +12,7 @@ https://github.com/ru-faraon/pupy<br>
 https://github.com/floomby/injector<br>
 https://github.com/amishsecurity/paythepony<br>
 https://github.com/BorjaMerino/Pazuzu<br>
+https://github.com/Frenda/libScanHook/blob/master/libScanHook/PeLoader.cpp<br>
 
 Various tools:<br>
 https://github.com/CylanceVulnResearch/ReflectiveDLLRefresher<br>
