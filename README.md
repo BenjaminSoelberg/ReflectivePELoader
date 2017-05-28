@@ -25,6 +25,7 @@ https://github.com/hirnschallsebastian/Breach<br>
 https://wikileaks.org/ciav7p1/cms/page_14588718.html<br>
 https://github.com/jaredhaight/ReflectCmd<br>
 https://www.codeproject.com/Articles/44326/MinHook-The-Minimalistic-x-x-API-Hooking-Libra<br>
+https://github.com/Jyang772/XOR_Crypter/tree/master/Stub<br>
 
 Documentation and blog posts:<br>
 https://en.wikipedia.org/wiki/Portable_Executable<br>
