@@ -14,8 +14,10 @@ https://github.com/amishsecurity/paythepony<br>
 https://github.com/BorjaMerino/Pazuzu<br>
 https://github.com/Frenda/libScanHook/blob/master/libScanHook/PeLoader.cpp<br>
 https://github.com/apriorit/ReflectiveDLLInjection<br>
+https://github.com/uItra/Injectora<br>
 
 Various tools:<br>
+https://github.com/DarthTon/Blackbone<br>
 https://github.com/CylanceVulnResearch/ReflectiveDLLRefresher<br>
 https://github.com/CylanceVulnResearch/upx/tree/reflective_dll<br>
 https://github.com/papadp/reflective-injection-detection<br>
@@ -27,6 +29,7 @@ https://wikileaks.org/ciav7p1/cms/page_14588718.html<br>
 https://github.com/jaredhaight/ReflectCmd<br>
 https://www.codeproject.com/Articles/44326/MinHook-The-Minimalistic-x-x-API-Hooking-Libra<br>
 https://github.com/Jyang772/XOR_Crypter/tree/master/Stub<br>
+https://github.com/thereals0beit/RemoteFunctions<br>
 
 Documentation and blog posts:<br>
 https://en.wikipedia.org/wiki/Portable_Executable<br>
