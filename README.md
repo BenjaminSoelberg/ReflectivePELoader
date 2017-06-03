@@ -15,6 +15,7 @@ https://github.com/BorjaMerino/Pazuzu<br>
 https://github.com/Frenda/libScanHook/blob/master/libScanHook/PeLoader.cpp<br>
 https://github.com/apriorit/ReflectiveDLLInjection<br>
 https://github.com/uItra/Injectora<br>
+https://github.com/fancycode/MemoryModule<br>
 
 Various tools:<br>
 https://github.com/DarthTon/Blackbone<br>
