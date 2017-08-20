@@ -32,7 +32,7 @@ https://www.codeproject.com/Articles/44326/MinHook-The-Minimalistic-x-x-API-Hook
 https://github.com/Jyang772/XOR_Crypter/tree/master/Stub<br>
 https://github.com/thereals0beit/RemoteFunctions<br>
 
-Documentation and blog posts:<br>
+Documentation, blog posts and videos:<br>
 https://en.wikipedia.org/wiki/Portable_Executable<br>
 https://upload.wikimedia.org/wikipedia/commons/1/1b/Portable_Executable_32_bit_Structure_in_SVG_fixed.svg<br>
 http://stackoverflow.com/questions/18362368/loading-dlls-at-runtime-in-c-sharp<br>
@@ -45,6 +45,7 @@ http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html<b
 https://disman.tl/2015/01/30/an-improved-reflective-dll-injection-technique.html<br>
 https://disman.tl/2015/03/16/cross-architecture-reflective-dll-inection.html<br>
 https://www.youtube.com/watch?v=9U6dtRtSuFo&index=11&list=PLcTmaBQIhUkgvwz3k-JGHUcDlS41fim0x<br>
+https://www.youtube.com/watch?v=9L9I1T5QDg<br>
 
 Interresting Microsoft documentation for my personal needs:<br>
 https://blogs.msdn.microsoft.com/ntdebugging/2009/01/09/challenges-of-debugging-optimized-x64-code/<br>
