@@ -33,6 +33,7 @@ https://github.com/Jyang772/XOR_Crypter/tree/master/Stub<br>
 https://github.com/thereals0beit/RemoteFunctions<br>
 
 Documentation, blog posts and videos:<br>
+https://www.endgame.com/blog/technical-blog/hunting-memory<br>
 https://en.wikipedia.org/wiki/Portable_Executable<br>
 https://upload.wikimedia.org/wikipedia/commons/1/1b/Portable_Executable_32_bit_Structure_in_SVG_fixed.svg<br>
 http://stackoverflow.com/questions/18362368/loading-dlls-at-runtime-in-c-sharp<br>
