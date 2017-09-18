@@ -4,6 +4,7 @@ Base on code found on [https://www.youtube.com/watch?v=X393OZqSPUk](https://www.
 
 Other Reflective PE Loaders:<br>
 https://github.com/stephenfewer/ReflectiveDLLInjection<br>
+https://github.com/DarthTon/Blackbone Swiss army knife<br>
 https://github.com/dismantl/ImprovedReflectiveDLLInjection this one is very very cool<br>
 https://github.com/Professor-plum/Reflective-Driver-Loader very cool as well<br>
 https://github.com/countercept/doublepulsar-usermode-injector<br>
