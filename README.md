@@ -49,7 +49,7 @@ https://disman.tl/2015/03/16/cross-architecture-reflective-dll-inection.html<br>
 https://www.youtube.com/watch?v=9U6dtRtSuFo&index=11&list=PLcTmaBQIhUkgvwz3k-JGHUcDlS41fim0x<br>
 https://www.youtube.com/watch?v=9L9I1T5QDg<br>
 
-Interresting Microsoft documentation for my personal needs:<br>
+Interesting Microsoft documentation:<br>
 https://blogs.msdn.microsoft.com/ntdebugging/2009/01/09/challenges-of-debugging-optimized-x64-code/<br>
 https://msdn.microsoft.com/en-us/library/4khtbfyf<br>
 https://msdn.microsoft.com/en-us/library/69ze775t.aspx<br>
