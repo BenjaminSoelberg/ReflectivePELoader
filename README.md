@@ -17,6 +17,7 @@ https://github.com/Frenda/libScanHook/blob/master/libScanHook/PeLoader.cpp<br>
 https://github.com/apriorit/ReflectiveDLLInjection<br>
 https://github.com/uItra/Injectora<br>
 https://github.com/fancycode/MemoryModule<br>
+https://github.com/mq1n/SonicInjector<br>
 
 Various tools:<br>
 https://github.com/CylanceVulnResearch/ReflectiveDLLRefresher<br>
